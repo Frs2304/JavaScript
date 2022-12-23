@@ -9,3 +9,6 @@ console.log(newArray)
 let num_3 = [5,4,1,8,7]
 num_3.sort()
 console.log(num_3)
+// reverse method - to reverse the array
+num.reverse()
+console.log(num)
