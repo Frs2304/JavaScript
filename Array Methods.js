@@ -18,4 +18,4 @@ let e = num.shift(1)
 console.log(num)
 // unshift is used to add an element at the beginning of the array
 let f = num.unshift(1)
-console.log(num
+console.log(num)
