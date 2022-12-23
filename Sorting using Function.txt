@@ -1,0 +1,6 @@
+let compare = (a, b) =>{
+    return a - b
+}
+let num = [5,78,14,23,27,114]
+num.sort(compare)
+console.log(num)
