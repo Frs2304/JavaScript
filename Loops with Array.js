@@ -15,7 +15,7 @@ console.log(arr)
 for(let i of num){
     console.log(i)
 }
-// for in loop
+// for in loop (sued to print index of i)
 for(let i in num){
     console.log(i)
 }
