@@ -1,5 +1,5 @@
 // Practice Set 4 - Q2
-// Exploring the Include function
+// Using the include function
 const sentence = 'The quick brown fox jumps over the lazy dog';
 const word = 'fox';
 console.log(sentence.includes(word));
