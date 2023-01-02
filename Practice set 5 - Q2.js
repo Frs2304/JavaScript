@@ -1,4 +1,5 @@
 // Practice Set 5 - Q2
+// Take input from the user till the input is not 0
 let arr = [1,2,3,4,5,6,7]
 let a;
 do {
