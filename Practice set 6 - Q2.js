@@ -4,6 +4,8 @@ let age = prompt("Enter your age : ")
 let n = Number.parseInt(age)
 let runAgain = true
 while (runAgain) {
+    let age = prompt("Enter your age : ")
+    let n = Number.parseInt(age)
     if (n < 18) {
         console.log("You cannot drive!")
     }
