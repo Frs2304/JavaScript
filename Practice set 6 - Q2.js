@@ -1,4 +1,5 @@
 // Practice Set 6 - Q2
+// Ask do you want to enter age again?
 let age = prompt("Enter your age : ")
 let n = Number.parseInt(age)
 let runAgain = true
