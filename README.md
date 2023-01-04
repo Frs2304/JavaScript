@@ -1,3 +1,3 @@
 # JavaScript
 
-My very own JavaScript palyground.
+My very own JavaScript playground.
