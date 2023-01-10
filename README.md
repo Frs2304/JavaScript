@@ -2,4 +2,4 @@
 
 My very own JavaScript playground.
 
-![Logo](https://th.bing.com/th/id/OIP.XI8Itf5V4Suq5vxU5Gw0OgHaFj?w=231&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7)
+![Logo](https://www.bing.com/th/id/OGC.566122c38cdf39e5388b2d9f62145aff?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1018278%2fscreenshots%2f3870893%2fhello_world.gif&ehk=ug3EjpfCMNeP7XN%2bHQeVgToDqw2MLatShgKIjwuAEz0%3d)
