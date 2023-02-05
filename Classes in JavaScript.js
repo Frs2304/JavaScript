@@ -12,4 +12,4 @@ let yash = new RailwayForm();
 
 tushar.submit();
 yash.submit();
-yash.cancel()
+yash.cancel();
