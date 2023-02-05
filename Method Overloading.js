@@ -14,7 +14,7 @@ class Programmer extends Employee {
         console.log(`Employee has requested ${x} coffee`);
     }
     requestLeaves(leaves){
-        super.requestLeaves(5)
+        super.requestLeaves(5);
             console.log("One extra is granted");
     }
 }
