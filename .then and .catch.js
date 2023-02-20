@@ -1,26 +1,26 @@
 let p1 = new Promise((resolve,reject)=>{
-    console.log("Promise is pending")
+    console.log("Promise is pending");
     setTimeout(()=>{
-      alert("I am promise and i am resolving")
+      alert("I am promise and i am resolving");
     },3000)
-    resolve(true)
+    resolve(true);
     
   })
   console.log(p1)
   let p2 = new Promise((resolve,reject)=>{
-    console.log("Promise is pending")
+    console.log("Promise is pending");
     setTimeout(()=>{
-      alert("I am promise and i am rejected")
+      alert("I am promise and i am rejected");
     },5000)
-    reject(new Error("I am an error"))
+    reject(new Error("I am an error"));
     
   })
-  console.log(p2)
+  console.log(p2);
   
   p1.then((value)=>{
-    console.log(value)
+    console.log(value);
   })
   
   p2.catch((error)=>{
-    console.log("some error occured in p2")
+    console.log("some error occured in p2");
   })
