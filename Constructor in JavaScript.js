@@ -1,5 +1,5 @@
 class RailwayForm {
-    constructor(givvenname,trainno,address){
+    constructor(givvenname,trainno,address) {
         console.log("Constructor Called");
         this.name = givenname;
         this.trainno = trainno;
