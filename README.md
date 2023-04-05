@@ -7,4 +7,3 @@ This repository contains a collection of JavaScript projects and exercises that 
 ## Technologies Used
 
     JavaScript
-    HTML
